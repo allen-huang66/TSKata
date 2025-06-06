@@ -1,7 +1,7 @@
 using FluentAssertions;
-using TSKata.Core;
+using TSKata.TSKata.Core;
 
-namespace TSKata.Tests;
+namespace TSKata.TSKata.Tests;
 
 public class StringAverageTests
 {

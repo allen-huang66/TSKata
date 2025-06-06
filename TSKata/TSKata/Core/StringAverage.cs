@@ -1,4 +1,4 @@
-namespace TSKata.Core;
+namespace TSKata.TSKata.Core;
 
 public class StringAverage
 {
