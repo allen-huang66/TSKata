@@ -3,7 +3,7 @@ using TSKata.TSKata.Core;
 
 namespace TSKata.TSKata.Tests;
 
-public class StringAverageTests
+public class StringAverageTest
 {
     private readonly StringAverage _stringAverage = new()
     {
